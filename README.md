@@ -1,2 +1,2 @@
-# machine-learning-code
-material of machine learning models will be available here.
+# machine-learning
+code of linear regression algo and dataset is available here
