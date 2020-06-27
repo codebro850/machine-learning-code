@@ -1,2 +1,2 @@
 # machine-learning
-code of linear regression algo and dataset is available here
+code of real estate model and dataset is available here
